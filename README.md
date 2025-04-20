@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on my Portfolio using Django and and contributing to open-source.
 - 🌱 I’m currently learning core Python programming concepts - to reinforce my understanding of OOP, data structures, algorithms, exceptions etc. I'm interested in how to leverage AI and Machine Learning with Python. 
 - 👯 I’m volunteering with WCC (Women in Coding Community) open-source community project, collaborating with others like me, learning, building, and supporting other women in the tech industry.
-- 🤔 I’m actively looking to break into the tech industry—whether it's in data analytics, software engineering, or another role where I can blend my communication skills, business acumen, and technical training.
+- 🤔 I’m actively looking to break into the tech industry - whether it's in data analytics, software engineering, or another role where I can blend my communication skills, business acumen, and technical training.
 - 💬 I enjoy cooking, reading articles, jogging, floor exercises, continuous learning, networking events and debugging!
 - 📫 How to reach me: https://www.linkedin.com/in/rashidat-adekoya/
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: Honey never spoils—you could eat 3,000-year-old honey! 🍯
+- ⚡ Fun fact: Honey never spoils - you could eat 3,000-year-old honey! 🍯
 
 
 
