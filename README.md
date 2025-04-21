@@ -12,7 +12,7 @@
 - 💬 I enjoy cooking, reading articles, jogging, floor exercises, continuous learning, networking events and debugging!
 - 📫 How to reach me: https://www.linkedin.com/in/rashidat-adekoya/
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: Honey never spoils - you could eat 3,000-year-old honey! 🍯
+- ⚡ Fun fact: Travel broadens the mind 💡.
 
 
 
