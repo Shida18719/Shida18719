@@ -4,8 +4,9 @@
 **Shida18719/Shida18719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👩🏽‍💻 A recent graduate of CBF - Entry to Tech: Investment Banking Bootcamp in collaboration with UBS - covering Java training trading algorithms and previously completed a FullStack Software Develpment bootcamps with Coding Institute, where I gained experience in HTML, CSS, JavaScript, Python and SQL
-- 🔭 I’m currently working on my Portfolio using Django and and contributing to open-source.
+- 👩🏽‍💻 A graduate of CBF - Entry to Tech: Investment Banking Bootcamp in collaboration with UBS - covering Java training trading algorithms and previously completed a FullStack Software Develpment bootcamps with Coding Institute, where I gained experience in HTML, CSS, JavaScript, Python and SQL
+- 🔭 I recently complete working on my Portfolio Website using Django.
+- 🔭 I'm participating in the 16 weeks Cqjigo 100 Women in Tech Accelerator - A tech and Personal / Leadership development program and contributing to open-source 
 - 🌱 I’m currently learning core Python programming concepts - to reinforce my understanding of OOP, data structures, algorithms, exceptions etc. I'm interested in how to leverage AI and Machine Learning with Python. 
 - 👯 I’m volunteering with WCC (Women in Coding Community) open-source community project, collaborating with others like me, learning, building, and supporting other women in the tech industry.
 - 🤔 I’m actively looking to break into the tech industry - whether it's in data analytics, software engineering, or another role where I can blend my communication skills, business acumen, and technical training.
